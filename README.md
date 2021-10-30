@@ -23,7 +23,7 @@
 基于当前分支，创建一个新分支，分支名为您姓名的拼音，然后在新分支上开发。
 
 ## 创建项目
-必要的依赖：spring boot、mysq驱动  
+必要的依赖：spring boot、mysql驱动  
 其它依赖如jpa、mybatis、mybatis-plus、lombok等，根据需要自行选择
 
 ## 创建数据库表
